@@ -1,0 +1,9 @@
+torch
+torchvision
+langchain
+oracledb
+gradio
+transformers
+pillow
+nvidia-riva-client
+oci
